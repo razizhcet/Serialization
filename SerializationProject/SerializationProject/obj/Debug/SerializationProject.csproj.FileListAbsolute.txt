@@ -1,0 +1,8 @@
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\bin\Debug\SerializationProject.exe.config
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\bin\Debug\SerializationProject.XML
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\bin\Debug\SerializationProject.exe
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\bin\Debug\SerializationProject.pdb
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\bin\Debug\log4net.dll
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\bin\Debug\log4net.xml
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\obj\Debug\SerializationProject.exe
+E:\BizRun.NET\c#.net-programs\SerializationProject\SerializationProject\obj\Debug\SerializationProject.pdb
